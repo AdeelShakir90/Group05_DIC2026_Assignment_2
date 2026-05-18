@@ -1,2 +1,5 @@
 pyspark==3.5.1
 numpy
+pandas
+py4j
+psutil
